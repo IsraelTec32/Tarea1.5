@@ -1,0 +1,5 @@
+ISBN| Título|Autor|Disponibilidad|Tipo
+941520223|chino|china|Disponible|Título Técnico
+676414243|Dialogos|Aristoteles|Disponible|Academico
+89664891|Manual|Israel|Disponible|Tecnico
+982263775|yadira|Israel|Disponible|Ficcion
